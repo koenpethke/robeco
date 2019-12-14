@@ -14,3 +14,6 @@ To save changes to branch:
 	git add name_notebook (adds notebook to the pile of changes that need to be committed)
 	git commit 'commit_reason' (kan prima 'checkpoint' ofzo neerzetten)
 	git push origin name_branch
+
+To be up-to-date with any changes made to master branch (only after merging):
+	git pull origin master
