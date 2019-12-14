@@ -1,0 +1,16 @@
+Use Anaconda Powershell Prompt to do all git commands
+Check if Git is properly installed: git --version
+
+First run these commands to set your account's default identity:
+	git config --global user.email "you@example.com" (vul alleen je mail van je Git account in)
+	git config --global user.name "name"
+
+To create a new branch to work on:
+	git checkout master
+	git checkout -b 'name_branch'
+
+To save changes to branch:
+	git status (kun je ff kijken wat voor changes je überhaupt hebt gemaakt)
+	git add name_notebook (adds notebook to the pile of changes that need to be committed)
+	git commit 'commit_reason' (kan prima 'checkpoint' ofzo neerzetten)
+	git push origin name_branch

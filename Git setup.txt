@@ -1,0 +1,6 @@
+1. Create account on https://github.com/
+2. Download Git for Windows: https://git-scm.com/download/win
+		for Apple: https://git-scm.com/download/mac
+3. Install Git using https://www.earthdatascience.org/workshops/setup-earth-analytics-python/setup-git-bash-conda/
+4. To import existing Git repository use https://help.github.com/en/github/importing-your-projects-to-github/importing-a-git-repository-using-the-command-line. The clone URL is https://github.com/tstolte/seminar-robeco.
+5. Follow https://stackoverflow.com/questions/48304305/anaconda-python-change-anaconda-prompt-user-path to change the starting file location and change it to your local Git repository.
